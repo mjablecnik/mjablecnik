@@ -3,10 +3,8 @@
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjablecnik&label=Profile%20views&color=0e75b6&style=flat" alt="mjablecnik" /> </p>
 -->
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjablecnik&column=7" alt="mjablecnik" /></a> </p>
+
 <!--
-<br>
 
 - 👨‍💻 All of my projects are available in my [Github profile](https://github.com/mjablecnik?tab=repositories&q=&type=source&language=dart&sort=)
 
@@ -33,10 +31,11 @@
   </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
+  </a> <!--
   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> 
   </a>
+-->
       </td></tr>
     <tr><td>
   Backend:
@@ -111,7 +110,14 @@
 </p>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjablecnik&show_icons=true&locale=en&layout=compact" alt="mjablecnik" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=mjablecnik&show_icons=true&locale=en" alt="mjablecnik" /></p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mjablecnik&column=7" alt="mjablecnik" />
+  </a> 
+</p>
+
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mjablecnik&show_icons=true&locale=en" alt="mjablecnik" /></p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
