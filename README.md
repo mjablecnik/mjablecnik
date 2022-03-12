@@ -24,7 +24,7 @@
 <p align="center"> 
   <table  align="center">
     <tr><td>
-  Mobile:
+      <b>Mobile:</b>
       </td><td>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -38,7 +38,7 @@
 -->
       </td></tr>
     <tr><td>
-  Backend:
+      <b>Backend:</b>
       </td><td>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -53,7 +53,7 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a>  </td></tr>
     <tr><td>
-  Frontend:
+      <b>Frontend:</b>
       </td><td>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -72,7 +72,7 @@
       </a>
   </td></tr>
     <tr><td>
-  Databases:
+      <b>Databases:</b>
       </td><td>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -88,7 +88,7 @@
   </a>
   </td></tr>
     <tr><td>
-  Others:
+      <b>Others:</b>
        </td><td>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
