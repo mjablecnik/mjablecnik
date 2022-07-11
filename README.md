@@ -119,7 +119,11 @@
 </p>
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mjablecnik&show_icons=true&locale=en" alt="mjablecnik" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mjablecnik&show_icons=true&locale=en" alt="mjablecnik" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mjablecnik&theme=solarized-light&date_format=M%20j%5B%2C%20Y%5D&dates=434D67&sideLabels=268BD2&currStreakNum=434D67&currStreakLabel=268BD2&background=FFFEFE&fire=5AA9FB&ring=2F80EDAE&sideNums=434D67)](https://git.io/streak-stats)
+</p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
