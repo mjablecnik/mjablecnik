@@ -113,17 +113,14 @@
 <br><br>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mjablecnik&column=7" alt="mjablecnik" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=mjablecnik&column=8" />
 </p>
 
 <br><p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjablecnik&show_icons=true&locale=en" alt="mjablecnik" />
   
 <div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mjablecnik&theme=solarized-light&date_format=M%20j%5B%2C%20Y%5D&dates=434D67&sideLabels=268BD2&currStreakNum=434D67&currStreakLabel=268BD2&background=FFFEFE&fire=5AA9FB&ring=2F80EDAE&sideNums=434D67)](https://git.io/streak-stats)
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mjablecnik&theme=solarized-light&date_format=M%20j%5B%2C%20Y%5D&dates=434D67&sideLabels=268BD2&currStreakNum=434D67&currStreakLabel=268BD2&background=FFFEFE&fire=5AA9FB&ring=2F80EDAE&sideNums=434D67" />
   
   </div>
 </p>
