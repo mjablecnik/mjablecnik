@@ -113,7 +113,7 @@
 <br><br>
 
 <p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=mjablecnik&column=8" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mjablecnik&column=6" />
 </p>
 
 <br><p align="center"> 
