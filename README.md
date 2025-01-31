@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martin Jablečník</h1>
+![image](https://github.com/user-attachments/assets/fc323c52-f318-4f0a-8ffb-62af3ff1c326)<h1 align="center">Hi 👋, I'm Martin Jablečník</h1>
 <h3 align="center">A passionate software developer from Czech republic</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjablecnik&label=Profile%20views&color=0e75b6&style=flat" alt="mjablecnik" /> </p>
@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-<h3 align="center">I have experiences with:</h3>
+<h3 align="center">I have experience with:</h3>
 <p align="center"> 
   <table  align="center">
     <tr><td>
@@ -71,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/164/57/png-transparent-flask-logos-brands-icon.png" alt="flask" width="40" height="40"/> 
   </a>  </td></tr>
     <tr><td>
       <b>Databases:</b>
