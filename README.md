@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc323c52-f318-4f0a-8ffb-62af3ff1c326)<h1 align="center">Hi 👋, I'm Martin Jablečník</h1>
+<h1 align="center">Hi 👋, I'm Martin Jablečník</h1>
 <h3 align="center">A passionate software developer from Czech republic</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjablecnik&label=Profile%20views&color=0e75b6&style=flat" alt="mjablecnik" /> </p>
